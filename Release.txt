@@ -1,0 +1,8 @@
+v1.0.0
+
+A Timer was created with:-
+	- a sound effect imported in the same directory of Python code.
+	- playsound function in playsound module imported to play the sound effect in Python
+	- inputs taken from the user
+	- sleep() in time module used to delay the execution of line of code
+	- ANSI escape characters used to clear and overwrite the terminal
